@@ -36,4 +36,4 @@ Explore the interactive dashboard and filters.
 🖋️ Author
 Camila dos Santos Gasparini
 csgasparini@gmail.com
-https://www.linkedin.com/in/camila-dos-santos-gasparini-a21a75a7/
+https://www.linkedin.com/in/camilagasparini/
